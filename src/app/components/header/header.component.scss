@@ -1,0 +1,25 @@
+@import "src/styles";
+
+.header__container {
+  background-color: $darkBlue;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__sitename {
+  color: $darkBgText;
+  font-size: $subtitle;
+  font-weight: 400;
+  margin: 0;
+}
+
+.header__user-container {
+  display: flex;
+  align-items: center;
+}
+
+.header__user-name {
+  color: $darkBgText;
+  font-size: $paragraph;
+}

@@ -1,0 +1,11 @@
+@import "../styles";
+
+.app__container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.app__content-container {
+  flex-grow: 1;
+}

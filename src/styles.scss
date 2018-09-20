@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+$darkBlue: #1e2e3b;
+$blue: #30495f;
+$lightBlue: #9dafbd;
+$darkBgText: #d6dbdf;
+$whiteBgText: #1e2e3b;
+$placeholderText: #6c6c6c;
+$menuHighlight: #405e78;
+$green: #76b43f;
+$lightGreen: #a8ce87;
+$red: #b43f3f;
+$lightRed: #c99898;
+$orange: #b48c3f;
+
+$title: 3rem;
+$subtitle: 2rem;
+$paragraph: 1rem;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+body,
+html {
+  height: 100%;
+}

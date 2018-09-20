@@ -1,0 +1,11 @@
+@import "src/styles";
+
+.menu__container {
+  background: $blue;
+  padding: 1rem 2rem;
+  a {
+    color: $darkBgText;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+}

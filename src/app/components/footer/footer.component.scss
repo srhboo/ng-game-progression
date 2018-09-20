@@ -1,0 +1,13 @@
+@import "src/styles";
+
+.footer__container {
+  background-color: $darkBlue;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.footer__language,
+.footer__languages-container {
+  color: $darkBgText;
+}
